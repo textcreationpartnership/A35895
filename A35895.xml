@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between the Dutchess of Portsmouth and Madam Gwin at parting</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35895</idno>
+            <idno type="STC">Wing D1329</idno>
+            <idno type="STC">ESTC R578</idno>
+            <idno type="EEBO-CITATION">12264774</idno>
+            <idno type="OCLC">ocm 12264774</idno>
+            <idno type="VID">57977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57977)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 180:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between the Dutchess of Portsmouth and Madam Gwin at parting</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gwyn, Nell, 1650-1687.</term>
+               <term>Kéroualle, Louise-Renée de, --  Duchess of Portsmouth and Aubigny, 1649-1734.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:57977:1" rendition="simple:additions"/>
+            <head>A Dialogue, BETWEEN The Dutcheſs of <hi>Portſmouth,</hi> and Ma<g ref="char:EOLhyphen"/>dam <hi>Gwin,</hi> at parting.</head>
+            <sp>
+               <speaker>Gw.</speaker>
+               <l>IT grieves my heart, and yet I can't but Smile</l>
+               <l>To ſee the Soveraign Planet of our Iſle</l>
+               <l>Homewards with ſuch a glittering Train Advance,</l>
+               <l>Who but an humble <hi>Meteor</hi> dropt from <hi>France.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Port.</speaker>
+               <l>Two ſuch great Lights cannot together ſhine:</l>
+               <l>To give your Orb more Luſtre I decline.</l>
+            </sp>
+            <sp>
+               <speaker>Gw.</speaker>
+               <l>You never ſuffer'd <hi>Nell</hi> to come in Play</l>
+               <l>Whilſt you had left but one Meridian-Ray,</l>
+               <l>And yet by Turns I did my ſelf that Right,</l>
+               <l>If you Enjoy'd the Day, I Rul'd the Night.</l>
+            </sp>
+            <sp>
+               <speaker>Port.</speaker>
+               <l>'Tis not to' advance your Intereſt I remove,</l>
+               <l>To ſway the Throne as Soveraign Queen of Love,</l>
+               <l>The Brother-Stars Relieve Each others Reign</l>
+               <l>When I appear your Moon's Eclips'd again.</l>
+            </sp>
+            <sp>
+               <speaker>Gw.</speaker>
+               <l>Nay rather, let me like a ſnuff Expire,</l>
+               <l>Than be again blaſted by thy French fire,</l>
+               <l>Go <hi>Portſm.</hi> keep to thy old Count <hi>
+                     <g ref="char:V">Ʋ</g>andome,</hi>
+               </l>
+               <l>It is <hi>Nell</hi>'s Birth-right now to Reign at home.</l>
+            </sp>
+            <sp>
+               <speaker>Port.</speaker>
+               <l>What, tho I was his only Miſs before</l>
+               <l>I was your Kings, you had a thouſand more,</l>
+               <l>Who Fame Reports did Squeeſe you o're and o're</l>
+               <l>Before you came to be a Royal-Whore.</l>
+            </sp>
+            <sp>
+               <speaker>Gw.</speaker>
+               <l>Let Fame that never yet Spoke well of Woman,</l>
+               <l>Give out I was a Stroling Whore, and Common,</l>
+               <l>Yet have I been to him ſince the firſt hour,</l>
+               <l>As Conſtant as the Needle to the flower;</l>
+               <l>Whilſt you to your Eternal Praiſe and Fame</l>
+               <l>To Forreign Scents betray'd the Royal-Game:</l>
+               <lg>
+                  <l>Witneſs the <hi>Prior.</hi> on your Boſom lay,</l>
+                  <l>And in that poſture did your Luſt betray,</l>
+                  <l>For which now with a Pox you're ſent away.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb facs="tcp:57977:2" rendition="simple:additions"/>
+               <speaker>Port.</speaker>
+               <l>I'le find a way in Spight of injur'd Fame</l>
+               <l>To make thy Race obſcure as is thy Name,</l>
+               <l>Who like the Serpent made thy Lord to Sin</l>
+               <l>For a Dry Orange, or a Ruſſetin</l>
+               <l>Which greedily the Monarch did Devour,</l>
+               <l>Tho it nouriſh'd fatal ſeeds within the Core.</l>
+            </sp>
+            <sp>
+               <speaker>Gw.</speaker>
+               <l>My Name thou <hi>Jeſebel</hi> of Pride and Malice,</l>
+               <l>Whoſe Father had a Hog-ſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y for his Pallace,</l>
+               <l>In my clear Veins beſt <hi>Brittiſh</hi> Bloud does flow,</l>
+               <l>Whilſt thou like a <hi>French</hi> Tode-ſtool firſt did grow,</l>
+               <l>And from a Birth as poor as thy Delight</l>
+               <l>Sprung up a Muſhrom-Dutcheſs in a Night,</l>
+               <l>Nor did I ever with the Brats I bore,</l>
+               <l>The Royal Standard Stein in Monſtruous gore,</l>
+               <l>Which makes thee fly to <hi>France,</hi> where thou muſt rot,</l>
+               <l>Or cure the Ulcers which the Bath cou'd not.</l>
+            </sp>
+            <sp>
+               <speaker>Port.</speaker>
+               <l>Think not i'th' Reſpeit of this ſhort Remove</l>
+               <l>To ſit ſole Empreſs on the Throne of Love</l>
+               <l>I was thy Rival once, and will Return</l>
+               <l>To be thy Rival ſtill, and thou my Scorne.</l>
+            </sp>
+            <sp>
+               <speaker>Gw.</speaker>
+               <l>Alike I value your Returne, or Stay.</l>
+               <l>Wiſely, while the Sun ſhin'd, you made your Hay.</l>
+               <l>Was Dearly at the Kingdoms coſt mantain'd,</l>
+               <l>Till you had every Vein and Sinne Drain'd;</l>
+               <l>And now ſo ſmale a Portion does remain,</l>
+               <l>There's little fear you'l er'e come here again.</l>
+            </sp>
+            <sp>
+               <speaker>Port.</speaker>
+               <l>Or if I ſtay it ſhall be at this Rate,</l>
+               <l>To leave thee to the Peoples Curſe and Hate,</l>
+               <l>Who in my Abſence will Revenge on thee</l>
+               <l>The Puniſhments their Rage deſign'd for me.</l>
+               <l>Farewel; yet, when I think the Joyes thou'lt feel</l>
+               <l>When I am gon, my Ghoſt will haunt thee ſtill.</l>
+            </sp>
+            <sp>
+               <speaker>Gw.</speaker>
+               <l>The peoples Hate much leſs their Curſe I fear</l>
+               <l>I do them Juſtice with leſs Sums a Year.</l>
+               <l>I neither run in Court nor Citys Score,</l>
+               <l>I pay my Debes, Diſtribute to the Poor.</l>
+               <l>Whilſt thou with ill kept Treaſure does Reſort</l>
+               <l>T' uphold thy ſplendor in the <hi>Gallick</hi> Court.</l>
+               <l>But <hi>France</hi> is for thy Luſt too kind a Clime</l>
+               <l>In <hi>Africk</hi> with ſome Wolf or Tyger Lime:</l>
+               <l>Or in the <hi>Indies</hi> make a new Plantation</l>
+               <l>And Eaſe us of the <hi>Grievance of the Nation.</hi>
+               </l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. S.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
